@@ -60,5 +60,5 @@ class PagesController extends Controller
 
     return redirect()->back()->with('success', 'User registered successfully!');
 }
-
+    
 }

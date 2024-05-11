@@ -32,7 +32,7 @@
                 </div>
                 <div class="mb-3">
                     <label for="mobileNumber" class="form-label">Mobile Number</label>
-                    <input type="tel" class="form-control" value="" name="mobilenumber" id="mobileNumber" placeholder="Enter your mobile number" required>
+                    <input type="tel" class="form-control" value="" name="mobileNumber" id="mobileNumber" placeholder="Enter your mobile number" required>
                 </div>
                 <div class="mb-3">
                     <label class="form-label">Gender</label>
